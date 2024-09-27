@@ -6,6 +6,10 @@ outline: deep
 
 本文档以实用性为主，类似于经典课程: [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
 
+Neo- 词根来着希腊语，表示新的，下一代的那种，新时代的那种新
+
+用 Neo 作为前缀的最著名的项目应该是 [NeoVim](https://neovim.io/) 和 [Neofetch](https://github.com/dylanaraps/neofetch)
+
 ## 为什么会有这个？
 
 我这里实习生比较多，水平参差不齐。什么？你不会挑人吗？我要是能挑实习生就不会有本文档了

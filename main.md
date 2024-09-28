@@ -280,7 +280,7 @@ golang 的 std 非常的棒，教科书级的设计，同时也很丰富
 
 ## 可观测性
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/327607ed-4c77-419f-9b15-dd1f70f887f7/02aa7674-da5f-4f8e-8ed7-1401117e9cf8/Untitled.png)
+![observability](./observability.png)
 
 ### PLG (Prometheus + Loki + Grafana)
 

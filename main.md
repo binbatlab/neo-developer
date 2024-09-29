@@ -262,6 +262,8 @@ golang 的 std 非常的棒，教科书级的设计，同时也很丰富
 
 ## 系统：Rust
 
+[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/title-page.html)
+
 [关于本书 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
 
 [介绍 - Rust精选](https://rustmagazine.github.io/rust_magazine_2021/index.html)

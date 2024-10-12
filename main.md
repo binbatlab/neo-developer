@@ -23,7 +23,8 @@
 
 中文版 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
-**【实用指南】Paul Graham 两万字新文：如何取得杰出成就**
+
+[![中文版《提问的智慧》](https://svg.bookmark.style/api?url=https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way&mode=dark&style=horizontal)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 [【实用指南】Paul Graham 两万字新文：如何取得杰出成就](https://mp.weixin.qq.com/s/31iL-Kbs4KrqpgrERVRNzQ)
 
@@ -31,19 +32,17 @@
 
 ### Markdown
 
-[Markdown 指南中文版](https://www.markdown.xyz/)
+[![Markdown 教程](https://svg.bookmark.style/api?url=https://markdown.com.cn/&mode=dark&style=horizontal)](https://markdown.com.cn/intro.html)
 
 ### README.md
 
-[Fonts do not load when SVGs are embedded in GitHub markdown · Issue #4855 · excalidraw/excalidraw](https://github.com/excalidraw/excalidraw/issues/4855#issuecomment-1512802502)
-
 一份模版
 
-[GitHub - kelseyhightower/nocode: The best way to write secure and reliable applications. Write nothing; deploy nowhere.](https://github.com/kelseyhightower/nocode)
+[![GitHub - kelseyhightower/nocode](https://svg.bookmark.style/api?url=https://github.com/kelseyhightower/nocode&mode=dark&style=horizontal)](https://github.com/kelseyhightower/nocode)
 
 ### 盘古之白
 
-[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+[![中文文案排版指北](https://svg.bookmark.style/api?url=https://github.com/sparanoid/chinese-copywriting-guidelines&mode=dark&style=horizontal)](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ### 画图: Excalidraw
 
@@ -51,12 +50,13 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 个人喜欢 Excalidraw，Drawio 这么强大的功能到底能用上多少，这是个问题。Excalidraw 很棒，精简又强大。默认配色也非常漂亮。是手绘风格，唯一的问题是没有中文手绘风格的字体
 
-[Excalidraw — Collaborative whiteboarding made easy](https://excalidraw.com/)
+[![Excalidraw — Collaborative whiteboarding made easy](https://svg.bookmark.style/api?url=https://excalidraw.com/&mode=dark&style=horizontal)](https://excalidraw.com/)
 
 [5 分钟了解 Excalidraw - 掘金](https://juejin.cn/post/7119512386029125668)
 
 关于生成的 SVG 手写字体丢失的问题，参考这里：
 
+[![Fonts do not load when SVGs are embedded in GitHub markdown · Issue #4855 · excalidraw/excalidraw](https://svg.bookmark.style/api?url=https://github.com/excalidraw/excalidraw&mode=dark&style=horizontal)](https://github.com/excalidraw/excalidraw/issues/4855#issuecomment-1512802502)
 
 ### 画图: Drawio
 
@@ -76,7 +76,7 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 ## 新时代大陆青年必备技能
 
-[科学上网原理 · Pines-Cheng/blog](https://github.com/Pines-Cheng/blog/issues/28)
+[![科学上网原理 · Pines-Cheng/blog](https://svg.bookmark.style/api?url=https://github.com/Pines-Cheng/blog&mode=dark&style=horizontal)](https://github.com/Pines-Cheng/blog/issues/28)
 
 [常用工具使用代理 · hlyani](https://hlyani.github.io/notes/proxy.html)
 
@@ -86,9 +86,11 @@ proxychains-ng 原理解析
 
 ### Clash
 
-[GitHub - clash-verge-rev/clash-verge-rev: Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)](https://github.com/clash-verge-rev/clash-verge-rev)
+[![GitHub - clash-verge-rev](https://svg.bookmark.style/api?url=https://github.com/clash-verge-rev/clash-verge-rev&mode=dark&style=horizontal)](https://github.com/clash-verge-rev/clash-verge-rev)
 
-[GitHub - LibNyanpasu/clash-nyanpasu: Clash Nyanpasu～(∠・ω< )⌒☆](https://github.com/LibNyanpasu/clash-nyanpasu)
+或者使用：
+
+[![GitHub - LibNyanpasu](https://svg.bookmark.style/api?url=https://github.com/LibNyanpasu/clash-nyanpasu&mode=dark&style=horizontal)](https://github.com/LibNyanpasu/clash-nyanpasu)
 
 ## 网络路由
 
@@ -99,6 +101,11 @@ proxychains-ng 原理解析
 [Wireshark 基本使用](https://www.misaka-9982.com/2022/03/21/Wireshark%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/)
 
 ## 编程基础
+
+### DevOps 实践
+
+[![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)
+
 ### 单元测试
 
 [单元测试：概念、作用与实践](https://www.duyixian.cn/2021/05/24/unittest/)
@@ -107,7 +114,7 @@ proxychains-ng 原理解析
 
 ### CI/CD 和 DevOps
 
-[一文带你看懂 CI/CD 是什么？](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
+[![一文带你看懂 CI/CD 是什么？](https://svg.bookmark.style/api?url=https://www.redhat.com/zh/topics/devops/what-is-ci-cd&mode=dark&style=horizontal)](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
 
 ### Docker（后端重点看，前端可选）
 
@@ -121,7 +128,7 @@ proxychains-ng 原理解析
 
 CSS 进阶推荐：
 
-[GitHub - chokcoco/iCSS: 不止于 CSS](https://github.com/chokcoco/iCSS)
+[![iCSS: 不止于 CSS](https://svg.bookmark.style/api?url=https://github.com/chokcoco/iCSS&mode=dark&style=horizontal)](https://github.com/chokcoco/iCSS)
 
 语言：typescript
 
@@ -145,21 +152,21 @@ CSS 进阶推荐：
 
 ### 选择框架 `vue` 或者 `react`
 
-[Vue.js - The Progressive JavaScript Framework | Vue.js](https://vuejs.org/)
+[![Vue.js - The Progressive JavaScript Framework](https://svg.bookmark.style/api?url=https://cn.vuejs.org/&mode=dark&style=horizontal)](https://cn.vuejs.org/)
 
-[React](https://react.dev/)
+[![React.js](https://svg.bookmark.style/api?url=https://react.dev/&mode=dark&style=horizontal)](https://react.dev/)
 
 ### 工具链：Vite
 
-[Vite](https://cn.vitejs.dev/)
+[![Vite](https://svg.bookmark.style/api?url=https://cn.vitejs.dev/&mode=dark&style=horizontal)](https://cn.vitejs.dev/)
 
 ### 测试框架：Vitest
 
-[Vitest](https://vitest.dev/)
+[![Vitest](https://svg.bookmark.style/api?url=https://vitest.dev/&mode=dark&style=horizontal)](https://vitest.dev/)
 
 ### 项目文档：**VitePress**
 
-[VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.dev/)
+[![VitePress | Vite & Vue Powered Static Site Generator](https://svg.bookmark.style/api?url=https://vitepress.dev/&mode=dark&style=horizontal)](https://vitepress.dev/)
 
 ### 自动部署：vercel
 
@@ -172,9 +179,9 @@ CSS 进阶推荐：
 - github page
 - cloudflare page
 
-[Vercel: Develop. Preview. Ship. For the best frontend teams](https://vercel.com/)
+[![Vercel](https://svg.bookmark.style/api?url=https://vercel.com/&mode=dark&style=horizontal)](https://vercel.com/)
 
-[Develop and deploy websites and apps in record time | Netlify](https://www.netlify.com/)
+[![Netlify](https://svg.bookmark.style/api?url=https://www.netlify.com/&mode=dark&style=horizontal)](https://www.netlify.com/)
 
 ### 代码风格优化
 
@@ -256,9 +263,11 @@ golang 的 std 非常的棒，教科书级的设计，同时也很丰富
 - railway
 - digitalocean apps
 - Google App Engine
-- zeabur (这是是国人做的，太新了，感觉有限地方考虑不周到，也可以用)
+- zeabur
 
-[Deploy app servers close to your users · Fly](https://fly.io/)
+[![Fly.io](https://svg.bookmark.style/api?url=https://fly.io/&mode=dark&style=horizontal)](https://fly.io/)
+
+[![zeabur](https://svg.bookmark.style/api?url=https://zeabur.com/&mode=dark&style=horizontal)](https://zeabur.com/)
 
 ## 系统：Rust
 

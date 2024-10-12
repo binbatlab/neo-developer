@@ -28,6 +28,12 @@
 
 [【实用指南】Paul Graham 两万字新文：如何取得杰出成就](https://mp.weixin.qq.com/s/31iL-Kbs4KrqpgrERVRNzQ)
 
+## BBFM
+
+新实习生第一个月目标就是完成 [BBFM](./bbfm)
+
+确切的说，本文档提到过的东西都不会专门解释，默认你已经知道了这些
+
 ## 学会写文档
 
 ### Markdown
@@ -116,128 +122,9 @@ proxychains-ng 原理解析
 
 [![一文带你看懂 CI/CD 是什么？](https://svg.bookmark.style/api?url=https://www.redhat.com/zh/topics/devops/what-is-ci-cd&mode=dark&style=horizontal)](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
 
-### Docker（后端重点看，前端可选）
+### Docker
 
 [Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
-
-## Web 前端：Typescript
-
-### HTML 和 CSS
-
-这两个非常基础，资料非常多
-
-CSS 进阶推荐：
-
-[![iCSS: 不止于 CSS](https://svg.bookmark.style/api?url=https://github.com/chokcoco/iCSS&mode=dark&style=horizontal)](https://github.com/chokcoco/iCSS)
-
-语言：typescript
-
-建议先从 ECMAScript 开始
-
-### JavaScript vs ECMAScript
-
-[JavaScript教程](https://www.liaoxuefeng.com/wiki/1022910821149312)
-
-[ES6 入门教程](https://es6.ruanyifeng.com/)
-
-### TypeScript
-
-[JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
-
-### Nodejs 和 npm, yarn, pnpm
-
-[Node入门 » 一本全面的Node.js教程](https://www.nodebeginner.org/index-zh-cn.html)
-
-[一文看懂npm、yarn、pnpm之间的区别 - 掘金](https://juejin.cn/post/6844903616109641736)
-
-### 选择框架 `vue` 或者 `react`
-
-[![Vue.js - The Progressive JavaScript Framework](https://svg.bookmark.style/api?url=https://cn.vuejs.org/&mode=dark&style=horizontal)](https://cn.vuejs.org/)
-
-[![React.js](https://svg.bookmark.style/api?url=https://react.dev/&mode=dark&style=horizontal)](https://react.dev/)
-
-### 工具链：Vite
-
-[![Vite](https://svg.bookmark.style/api?url=https://cn.vitejs.dev/&mode=dark&style=horizontal)](https://cn.vitejs.dev/)
-
-### 测试框架：Vitest
-
-[![Vitest](https://svg.bookmark.style/api?url=https://vitest.dev/&mode=dark&style=horizontal)](https://vitest.dev/)
-
-### 项目文档：**VitePress**
-
-[![VitePress | Vite & Vue Powered Static Site Generator](https://svg.bookmark.style/api?url=https://vitepress.dev/&mode=dark&style=horizontal)](https://vitepress.dev/)
-
-### 自动部署：vercel
-
-裸机手动部署一定要先学会。前端用 nginx
-
-这些平台了解一个就行了
-
-- Vercel
-- Netlify
-- github page
-- cloudflare page
-
-[![Vercel](https://svg.bookmark.style/api?url=https://vercel.com/&mode=dark&style=horizontal)](https://vercel.com/)
-
-[![Netlify](https://svg.bookmark.style/api?url=https://www.netlify.com/&mode=dark&style=horizontal)](https://www.netlify.com/)
-
-### 代码风格优化
-
-[Prettier · Opinionated Code Formatter](https://prettier.io/)
-
-### 浏览器
-
-[Chromium 渲染流水线——字节码到像素的一生](https://juejin.cn/post/7154953254399393806)
-
-## Web 后端：Golang
-
-### golang
-
-[《Go 入门指南》 | Go 技术论坛](https://learnku.com/docs/the-way-to-go)
-
-[GitHub - unknwon/go-study-index: Go 语言学习资料索引](https://github.com/Unknwon/go-study-index)
-
-[《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者](https://github.com/Unknwon/go-fundamental-programming)
-
-### golang 进阶（可选）
-
-[Go 语言设计与实现](https://draveness.me/golang/)
-
-### Go std
-
-golang 的 std 非常的棒，教科书级的设计，同时也很丰富
-
-[Standard library - Go Packages](https://pkg.go.dev/std)
-
-### 测试：golang 单元测试
-
-[Go 单测入门篇：Golang 单元测试基本使用 - 掘金](https://juejin.cn/post/7172037988950474759)
-
-### 数据库：PostgreSQL
-
-数据库基础自己找资料吧
-
-[PostgreSQL新手入门 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html)
-
-不建议初学者直接用 ORM。所以建议用这个
-
-[GitHub - lib/pq: Pure Go Postgres driver for database/sql](https://github.com/lib/pq)
-
-可以学习参考这个项目：
-
-[GitHub - miniflux/v2: Minimalist and opinionated feed reader](https://github.com/miniflux/v2)
-
-### 选择 Web 框架 `chi` 或者 `Gin`
-
-[GitHub - gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang)](https://github.com/gin-gonic/gin)
-
-[GitHub - go-chi/chi: lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
-
-推荐阅读：
-
-[设计服务端软件配置的 4 条建议  | Piglei](https://www.piglei.com/articles/how-to-design-config-file-for-software/)
 
 ### 网关：Nginx
 
@@ -248,114 +135,6 @@ golang 的 std 非常的棒，教科书级的设计，同时也很丰富
 ### 网关：Caddy
 
 [为什么个人项目我更推荐使用Caddy?](https://icebreaker.top/articles/2023/6/24-use-caddy-for-happy/)
-
-### 可观测性
-
-[What is observability?｜一文读懂什么是系统可观测性](https://segmentfault.com/a/1190000040745253)
-
-### 自动部署：fly.io
-
-裸机手动部署一定要先学会。后端写个 systemd unit
-
-[systemd](https://www.freedesktop.org/wiki/Software/systemd/)
-
-- fly.io
-- railway
-- digitalocean apps
-- Google App Engine
-- zeabur
-
-[![Fly.io](https://svg.bookmark.style/api?url=https://fly.io/&mode=dark&style=horizontal)](https://fly.io/)
-
-[![zeabur](https://svg.bookmark.style/api?url=https://zeabur.com/&mode=dark&style=horizontal)](https://zeabur.com/)
-
-## 系统：Rust
-
-[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/title-page.html)
-
-[关于本书 - Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
-
-[介绍 - Rust精选](https://rustmagazine.github.io/rust_magazine_2021/index.html)
-
-[简谈 Rust 中的错误处理 | 三点水](https://lotabout.me/2017/rust-error-handling/)
-
-## 架构
-
-### Req/Res
-
-### Pub/Sub
-
-### 设计模式
-
-[图说设计模式 — Graphic Design Patterns](https://design-patterns.readthedocs.io/zh-cn/latest/)
-
-## 可观测性
-
-![observability](./observability.png)
-
-### PLG (Prometheus + Loki + Grafana)
-
-### ELK (Elasticsearch + Logstash + Kibana)
-
-### opentelemetry
-
-### 性能之巅
-
-### BPF
-
-## 测试
-
-黑盒测试 vs 白盒测试
-
-### 单元测试
-
-### 集成测试
-
-### E2E 测试
-
-### 性能测试
-
-### 代码覆盖率
-
-### TDD
-
-[TesterHome](https://testerhome.com/)
-
-### 回归测试
-
-
-
-### APUE (Advanced Programming in the UNIX)
-
-## 编程语言
-
-模块化系统和包管理器
-
-[前端工具链之包管理器 - 过去与未来的npm](https://chlorinec.top/post/development/npm/)
-
-
-编译
-
-解释
-
-### GC
-
-异步运行时
-
-反射
-
-元编程
-
-IP 域名自动映射工具
-
-[Welcome to sslip.io](https://sslip.io/)
-
-### 设计模式
-
-
-## 最后，如果都看完了，建议看一下《设计模式》
-
-[美团技术团队](https://tech.meituan.com/)
 
 ## 设计
 

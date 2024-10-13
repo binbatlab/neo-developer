@@ -31,6 +31,8 @@
 
 ### ELK (Elasticsearch + Logstash + Kibana)
 
+[理解ELK入门](https://juejin.cn/post/7134521506692300830)
+
 ### opentelemetry
 
 [云原生可观测框架 OpenTelemetry 基础知识](https://www.cnblogs.com/hacker-linner/p/17613281.html)
@@ -41,7 +43,11 @@
 
 ## 测试
 
+[软件测试](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95)
+
 黑盒测试 vs 白盒测试
+
+[TesterHome](https://testerhome.com/)
 
 ### 单元测试
 
@@ -53,9 +59,13 @@
 
 ### 代码覆盖率
 
+[代码覆盖率 WikiPedia](https://zh.wikipedia.org/zh-cn/%E4%BB%A3%E7%A2%BC%E8%A6%86%E8%93%8B%E7%8E%87)
+
+[代码覆盖率是一个无用的管理指标](https://www.infoq.cn/article/1kurzhz4kxye2bpqml7v)
+
 ### TDD
 
-[TesterHome](https://testerhome.com/)
+[测试驱动开发（TDD）](https://tdd.shujuwajue.com/)
 
 ### 回归测试
 
@@ -68,11 +78,18 @@
 [前端工具链之包管理器 - 过去与未来的npm](https://chlorinec.top/post/development/npm/)
 
 
-编译
+编译和解释
 
-解释
+[你知道「编译」与「解释」的区别吗？](https://huang-jerryc.com/2016/11/20/do-you-konw-the-different-between-compiler-and-interpreter/)
 
-### GC
+
+### GC (Garbage Collector)
+
+[趣谈 GC 技术，解密垃圾回收的玄学理论](https://www.infoq.cn/article/uppg13u1fzitjwqtlywm)
+
+[浅谈编程语言中的 GC](https://www.chenxutalk.top/posts/bugs/%E6%B5%85%E8%B0%88%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84gc/)
+
+[闲扯几句 GC 的话题](https://blog.codingnow.com/2011/05/gc_performance.html)
 
 异步运行时
 
@@ -90,5 +107,7 @@ IP 域名自动映射工具
 ## 最后，如果都看完了，建议看一下《设计模式》
 
 [美团技术团队](https://tech.meituan.com/)
+
+[七猫技术团队](https://tech.qimao.com/)
 
 

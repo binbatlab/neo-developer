@@ -136,6 +136,12 @@ proxychains-ng 原理解析
 
 [为什么个人项目我更推荐使用Caddy?](https://icebreaker.top/articles/2023/6/24-use-caddy-for-happy/)
 
+## TLS/SSL
+
+[有关 TLS/SSL 证书的一切](https://www.kawabangga.com/posts/5330)
+
+[QUIC原理与KCP会话握手借鉴](https://hulinhong.com/2021/02/26/quic_intro/)
+
 ## 设计
 
 ### 52 设计原则

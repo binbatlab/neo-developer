@@ -60,10 +60,6 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 [5 分钟了解 Excalidraw - 掘金](https://juejin.cn/post/7119512386029125668)
 
-关于生成的 SVG 手写字体丢失的问题，参考这里：
-
-[![Fonts do not load when SVGs are embedded in GitHub markdown · Issue #4855 · excalidraw/excalidraw](https://svg.bookmark.style/api?url=https://github.com/excalidraw/excalidraw&mode=dark&style=horizontal)](https://github.com/excalidraw/excalidraw/issues/4855#issuecomment-1512802502)
-
 ### 画图: Drawio
 
 非常强大的画图工具

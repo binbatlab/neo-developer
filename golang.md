@@ -42,6 +42,10 @@ golang 的 std 非常的棒，教科书级的设计，同时也很丰富
 
 [设计服务端软件配置的 4 条建议  | Piglei](https://www.piglei.com/articles/how-to-design-config-file-for-software/)
 
+### 代码规范
+
+[Google Go 编程规范](https://gocn.github.io/styleguide/)
+
 ### 自动部署：fly.io
 
 裸机手动部署一定要先学会。后端写个 systemd unit

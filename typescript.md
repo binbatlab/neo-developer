@@ -61,7 +61,15 @@ CSS 进阶推荐：
 
 [![Netlify](https://svg.bookmark.style/api?url=https://www.netlify.com/&mode=dark&style=horizontal)](https://www.netlify.com/)
 
-### 代码风格优化
+### 代码规范
+
+[前端规范之JS代码规范（ESLint + Prettier）](https://www.cnblogs.com/Yellow-ice/p/15127392.html)
+
+[推荐几个大厂的前端代码规范](https://juejin.cn/post/6893891476913291278)
+
+[Airbnb JavaScript 风格指南](https://lin-123.github.io/javascript/)
+
+[Google 开源项目风格指南——中文版](https://zh-google-styleguide.readthedocs.io/en/stable/google-javascript-styleguide/javascript_style_rules.html)
 
 [Prettier · Opinionated Code Formatter](https://prettier.io/)
 

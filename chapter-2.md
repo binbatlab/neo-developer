@@ -4,7 +4,11 @@
 
 ### Markdown
 
-[![Markdown 教程](https://svg.bookmark.style/api?url=https://markdown.com.cn/&mode=dark&style=horizontal)](https://markdown.com.cn/intro.html)
+<Card
+  url="https://markdown.com.cn/intro.html"
+  title="Markdown 教程"
+  describe="Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。"
+/>
 
 ### README.md
 

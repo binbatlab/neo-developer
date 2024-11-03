@@ -1,8 +1,8 @@
-# 第零章 BBFM
+# 第一章 BBFM
 
 ## BBFM
 
-新实习生第一个月目标就是完成 [BBFM](./bbfm)
+新实习生第一个月目标就是完成
 
 确切的说，本文档提到过的东西都不会专门解释，默认你已经知道了这些
 
@@ -20,7 +20,14 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 ## 第一周：Linux 基础
 
-读书和实践：[《鸟哥的 Linux 私房菜（基础篇）》](https://linux.vbird.org/linux_basic/)
+读书和实践
+
+<Card
+  url="https://linux.vbird.org/linux_basic/"
+  title="《鸟哥的 Linux 私房菜（基础篇）》"
+  describe="歡迎光臨鳥哥的 Linux 私房菜，這裡介紹 Linux 的相關知識喔！"
+/>
+
 
 **测试标准：自己编译 Linux 内核**
 1. 现场讲解自己编译内核的可重现式操作笔记
@@ -32,7 +39,14 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 ## 第二周：服务器
 
-读书和实践：[《鸟哥的 Linux 私房菜（服务器篇）》](https://linux.vbird.org/linux_server/)
+读书和实践
+
+<Card
+  url="https://linux.vbird.org/linux_server/"
+  title="《鸟哥的 Linux 私房菜（服务器篇）》"
+  describe="歡迎光臨鳥哥的 Linux 私房菜，這裡介紹 Linux 的相關知識喔！"
+/>
+
 
 **测试标准：自己搭建 www 服务器，并用 PHP 写一个文件上传和下载功能**
 
@@ -40,7 +54,12 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 使用 SSH 连接远程服务器
 
-[SSH 教程](https://wangdoc.com/ssh/)
+<Card
+  url="https://wangdoc.com/ssh/"
+  title="SSH 教程"
+  describe="SSH 是 Linux 系统的登录工具，现在广泛用于服务器登录和各种加密通信。本教程介绍 SSH（主要是它的实现 OpenSSH）的概念和基本用法，也可以当作手册查询。"
+/>
+
 
 ## 第三周：编程基础
 
@@ -62,7 +81,14 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 ## 第四周：代码管理和协作
 
-读书：[《GitHub 入门与实践》](https://git-scm.com/book/zh/v2)
+读书
+
+<Card
+  url="https://git-scm.com/book/zh/v2"
+  title="《GitHub 入门与实践》"
+  describe="自诞生于 2005 年以来，Git 日臻成熟完善，在高度易用的同时，仍然保留着初期设定的目标。 它的速度飞快，极其适合管理大项目，有着令人难以置信的非线性分支管理系统"
+/>
+
 
 使用 `git bisect` 找出问题，购买域名。配置 https 指向上周开发的网站。给开源项目提交 PR (Pull Request)
 
@@ -91,13 +117,29 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 [![如何参与开源项目 - 细说 GitHub 上的 PR 全过程](https://svg.bookmark.style/api?url=https://blog.devstream.io/posts/open-a-pr-in-github/&mode=dark&style=horizontal)](https://blog.devstream.io/posts/open-a-pr-in-github/)
 
-[Angular提交信息规](https://zj-git-guide.readthedocs.io/zh-cn/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)
+<Card
+  url="https://zj-git-guide.readthedocs.io/zh-cn/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/"
+  title="Angular 提交信息规"
+  describe="目前最受开发人员肯定的规范是前端框架 Angular 提出的 Angular 提交信息规范"
+/>
 
-[Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+<Card
+  url="http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html"
+  title="Commit message 和 Change log 编写指南"
+  describe=""
+/>
 
-[Conventional提交规范](https://zj-git-guide.readthedocs.io/zh-cn/latest/message/Conventional%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/)
+<Card
+  url="https://zj-git-guide.readthedocs.io/zh-cn/latest/message/Conventional%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83/"
+  title="Conventional 提交规范"
+  describe=""
+/>
 
-[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+<Card
+  url="https://www.conventionalcommits.org/en/v1.0.0/"
+  title="Conventional Commits"
+  describe=""
+/>
 
 ### git bisect
 
@@ -105,7 +147,15 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 ### 关于版本号
 
-[语义化版本规范](https://semver.org/lang/zh-CN/)
+<Card
+  url="https://semver.org/lang/zh-CN/"
+  title="语义化版本规范"
+  describe=""
+/>
 
-[常见软件版本号详解](https://zhuanlan.zhihu.com/p/508354840)
+<Card
+  url="https://zhuanlan.zhihu.com/p/508354840"
+  title="常见软件版本号详解"
+  describe=""
+/>
 

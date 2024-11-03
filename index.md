@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /main
+      link: /chapter-0
     - theme: alt
       text: 为什么会有这个？
-      link: /about
+      link: /chapter-0#why
 
 features:
   - title: 📦 实用主义至上

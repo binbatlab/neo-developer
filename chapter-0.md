@@ -10,7 +10,7 @@ Neo- 词根来着希腊语，表示新的，下一代的那种，新时代的那
 
 这个不是一个完整的书，而是一个学习清单
 
-## 为什么会有这个？
+## 为什么会有这个？{#why}
 
 我这里实习生比较多，水平参差不齐。什么？你不会挑人吗？我要是能挑实习生就不会有本文档了
 
@@ -42,9 +42,17 @@ Neo- 词根来着希腊语，表示新的，下一代的那种，新时代的那
 
 中文版 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
+<Card
+  url="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
+  title="提问的智慧"
+  describe="在黑客的世界里，你所提技术问题的解答的好坏, 很大程度上取决于你提问的方式与此问题的难度。本指南将教你如何正确地提问以获得你满意的答案。"
+/>
 
 [![中文版《提问的智慧》](https://svg.bookmark.style/api?url=https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way&mode=dark&style=horizontal)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
-[【实用指南】Paul Graham 两万字新文：如何取得杰出成就](https://mp.weixin.qq.com/s/31iL-Kbs4KrqpgrERVRNzQ)
-
+<Card 
+  url="https://mp.weixin.qq.com/s/31iL-Kbs4KrqpgrERVRNzQ"
+  title="如何取得杰出成就"
+  describe="如果我们收集在不同领域成就伟大事业的技巧列表，它们的交集会是什么呢？我决定通过实践来找出答案。"
+/>
 

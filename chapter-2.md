@@ -1,5 +1,7 @@
 # 第二章 常用工具
 
+> 工欲善其事，必先利其器。
+
 ## 学会写文档
 
 ### Markdown
@@ -107,23 +109,65 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 ### 图床
 
-[嗯，图片就交给它了](https://sspai.com/post/40499)
+<Card
+  url="https://sspai.com/post/40499"
+  title="嗯，图片就交给它了"
+  describe="图片作为互联网服务中最基础的资源之一，存放在哪里是个问题。"
+/>
 
 ### PasteBin
 
-[从命令行轻松将文本片段上传到类似 Pastebin 的服务中](https://linux.cn/article-11691-1.html)
+<Card
+  url="https://linux.cn/article-11691-1.html"
+  title="从命令行轻松将文本片段上传到类似 Pastebin 的服务中"
+  describe="使用 Wgetpaste 脚本，任何人都可以与自己的朋友、同事或想在类似 Unix 的系统中的命令行中查看/使用/审查代码的人快速共享文本片段。"
+/>
 
-[fars.ee is a temporary deployment of PasteBin by farseerfc](https://fars.ee/)
+<Card
+  url="https://fars.ee/"
+  title="fars.ee"
+  describe="fars.ee is a temporary deployment of PasteBin by farseerfc"
+/>
+
+### 文件分享
+
+<Card
+  url="https://wormhole.app/"
+  title="Wormhole"
+  describe="Wormhole 让您使用端到端加密和自动过期的链接共享文件。"
+/>
+
+## 网络路由
+
+<Card
+  url="https://fasionchan.com/network/"
+  title="小菜学网络"
+  describe="本课程以 TCP/IP 协议五层模型为主线，带您从零起步，学习计算机网络知识。学习过程由易入难，我们先从最简单的两主机通讯着手（物理层），逐步介绍本地网络（链路层），网际路由（网络层），乃至 DNS 、HTTP 等常用应用层协议。"
+/>
+
+### 抓包技术 Wireshark
+
+<Card
+  url="https://www.misaka-9982.com/2022/03/21/Wireshark%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/"
+  title="Wireshark 基本使用"
+  describe="学习安装、使用协议分析软件，掌握基本的数据报捕获、过滤和协议的分析技巧，能对抓取数据包进行分析。"
+/>
 
 ## 新时代大陆青年必备技能
 
 [![科学上网原理 · Pines-Cheng/blog](https://svg.bookmark.style/api?url=https://github.com/Pines-Cheng/blog&mode=dark&style=horizontal)](https://github.com/Pines-Cheng/blog/issues/28)
 
-[常用工具使用代理 · hlyani](https://hlyani.github.io/notes/proxy.html)
+<Card
+  url="https://hlyani.github.io/notes/proxy.html"
+  title="常用工具使用代理"
+  describe="命令行工具比较特殊，了解常用工具如何设置代理"
+/>
 
-proxychains-ng 原理解析
-
-[proxychains-ng 原理解析](https://void-shana.moe/posts/proxychains-ng)
+<Card
+  url="https://void-shana.moe/posts/proxychains-ng"
+  title="proxychains-ng 原理解析"
+  describe="这个程序可以方便的让你在终端使用 SOCKS5, SOCKS4, HTTP 等协议代理网络访问，而不需要为了转换 SOCKS5 协议再搭建一个 HTTP 的代理来使用 http_proxy, https_proxy 这些 Shell 内置的环境变量来访问网络了。"
+/>
 
 ### Clash
 
@@ -133,17 +177,7 @@ proxychains-ng 原理解析
 
 [![GitHub - LibNyanpasu](https://svg.bookmark.style/api?url=https://github.com/LibNyanpasu/clash-nyanpasu&mode=dark&style=horizontal)](https://github.com/LibNyanpasu/clash-nyanpasu)
 
-## 网络路由
-
-[小菜学网络 | 小菜学编程](https://fasionchan.com/network/)
-
-### 抓包技术 Wireshark
-
-[Wireshark 基本使用](https://www.misaka-9982.com/2022/03/21/Wireshark%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/)
-
-## 编程基础
-
-### DevOps 实践
+## DevOps
 
 [![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)
 

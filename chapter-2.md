@@ -28,13 +28,82 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 [![Excalidraw — Collaborative whiteboarding made easy](https://svg.bookmark.style/api?url=https://excalidraw.com/&mode=dark&style=horizontal)](https://excalidraw.com/)
 
-[5 分钟了解 Excalidraw - 掘金](https://juejin.cn/post/7119512386029125668)
+<Card
+  url="https://juejin.cn/post/7119512386029125668"
+  title="5 分钟了解 Excalidraw - 掘金"
+  describe="介绍个人非常喜欢的开源画图工具 Excalidraw：基础功能、特点、开发小故事。 画风很手绘，推进大家使用。"
+/>
 
 ### 画图: Drawio
 
-非常强大的画图工具
+<Card
+  url="http://draw.io/"
+  title="Draw.io"
+  describe="非常强大的流程图制作器和在线图表工具"
+/>
 
-[Flowchart Maker & Online Diagram Software](http://draw.io/)
+## 如何正确截屏
+
+没错我并没有在开玩笑，真的就有人天天拿手机拍屏幕发图片
+
+![screenshot](screenshot.jpg)
+
+### Windows 截屏
+
+<Card
+  url="https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E6%8D%95%E8%8E%B7%E6%88%AA%E5%9B%BE-00246869-1843-655f-f220-97299b865f6b"
+  title="使用截图工具捕获截图 - Microsoft 支持"
+  describe="Windows 11 / Windows 10"
+/>
+
+<Card
+  url="https://robotrs.lenovo.com.cn/ZmptY2NtYW5hZ2Vy/p4data/Rdata/Rfiles/jietu.html"
+  title="Windows 截屏"
+  describe="Windows 8 / Windows 7 / Windows XP"
+/>
+
+### MacOS 截屏
+
+<Card
+  url="https://support.apple.com/zh-cn/guide/mac-help/mh26782/mac"
+  title="在 Mac 上截屏或录屏"
+  describe="在 Mac 上，按下 Shift-Command-5（或使用启动台）以打开“截屏”并显示工具。"
+/>
+
+### Linux 截屏
+
+<Card
+  url="https://linux.cn/article-10070-1.html"
+  title="在 Linux 下截屏并编辑的最佳工具"
+  describe="有几种获取屏幕截图并对其进行添加文字、箭头等编辑的方法，这里提及的的屏幕截图工具在 Ubuntu 和其它主流 Linux 发行版中都能够使用。"
+/>
+
+### iOS 截屏
+
+<Card
+  url="https://support.apple.com/zh-cn/102616"
+  title="在 iPhone 上截屏"
+  describe="快速存储屏幕上的内容。"
+/>
+
+### Android 截屏
+
+<Card
+  url="https://support.google.com/android/answer/9075928?hl=zh-Hans"
+  title="在 Android 设备上抓取屏幕截图或录制屏幕"
+  describe="您可以抓取手机屏幕画面（屏幕截图），也可以录制屏幕画面视频。拍摄屏幕后，您可以查看、编辑和分享所拍的图片或视频。"
+/>
+
+### 网页长截图
+
+<Card
+  url="https://www.awesomescreenshot.com/"
+  title="Awesome Screenshot & Screen Recorder"
+  describe="这个工具几乎支持所有的浏览器"
+/>
+
+- Chrome / Eege 也可以使用 [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
+- Firefox 自带一个截图工具，不过功能比较弱
 
 ### 图床
 

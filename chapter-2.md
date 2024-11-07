@@ -107,6 +107,8 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 - Chrome / Eege 也可以使用 [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 - Firefox 自带一个截图工具，不过功能比较弱
 
+## 互联网工具
+
 ### 图床
 
 <Card
@@ -136,6 +138,32 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
   title="Wormhole"
   describe="Wormhole 让您使用端到端加密和自动过期的链接共享文件。"
 />
+
+### 局域网大文件
+
+偶尔可能在局域网特殊机器上会传一些大文件，ssh 也可能无法使用
+
+临时开启 http server 是一个非常使用的方法
+
+::: code-group
+
+```bash [Python]
+python3 -m http.server 8888
+```
+
+```bash [NodeJS]
+npx serve -p 8888
+```
+
+```bash [PHP]
+php -S localhost:8888
+```
+
+```bash [Ruby]
+gem install webrick
+ruby -run -e httpd . -p 8888
+```
+:::
 
 ## 网络路由
 
@@ -176,6 +204,22 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 或者使用：
 
 [![GitHub - LibNyanpasu](https://svg.bookmark.style/api?url=https://github.com/LibNyanpasu/clash-nyanpasu&mode=dark&style=horizontal)](https://github.com/LibNyanpasu/clash-nyanpasu)
+
+### SPEEDTEST
+
+<Card
+  url="https://www.speedtest.net/"
+  title="Speedtest by Ookla - The Global Broadband Speed Test"
+  describe="Use Speedtest on all your devices with our free desktop and mobile apps."
+/>
+
+### 分流测试
+
+<Card
+  url="https://ip.skk.moe/"
+  title="IP 分流查询"
+  describe="查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 DNS 出口 IP | 查看递归 DNS 信息 | 测试 CDN 命中节点 | Sukka | https://ip.skk.moe | IP Address Lookup | What is my IP address | What is my DNS | DNSLeaks | GeoIP API"
+/>
 
 ## DevOps
 

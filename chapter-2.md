@@ -12,6 +12,12 @@
   describe="Markdown 是一种轻量级的标记语言，可用于在纯文本文档中添加格式化元素。Markdown 由 John Gruber 于 2004 年创建，如今已成为世界上最受欢迎的标记语言之一。"
 />
 
+<Card
+  url="https://www.marktext.cc/"
+  title="MarkText"
+  describe="Markdown 编辑器有很多，这里只推荐一个 MarkText"
+/>
+
 ### README.md
 
 一份模版
@@ -221,6 +227,54 @@ ruby -run -e httpd . -p 8888
   describe="查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 DNS 出口 IP | 查看递归 DNS 信息 | 测试 CDN 命中节点 | Sukka | https://ip.skk.moe | IP Address Lookup | What is my IP address | What is my DNS | DNSLeaks | GeoIP API"
 />
 
+## 反向代理 / 内网穿透
+
+### Cloudflare tunnel
+
+<Card
+  url="https://blog.outv.im/2021/cloudflared-tunnel/"
+  title="用 Cloudflare Tunnel 进行内网穿透"
+  describe="内网穿透，指的是将内网端口暴露到公网。由于防火墙的限制，或者中国大陆普遍的 NAT 宽带接入方式，大多用户没有属于自己的公网 IP，因此其它用户无法访问其设备上对外开放的服务（例如 Web 服务器）"
+/>
+
+### Frp
+
+<Card
+  url="https://sspai.com/post/85402"
+  title="frp 内网穿透教程，手把手教学"
+  describe="frp 是一个开源、简洁易用、高性能的内网穿透和反向代理软件，支持 tcp, udp, http, https 等协议"
+/>
+
+### Rathole
+
+<Card
+  url="https://github.com/rapiz1/rathole"
+  title="Rathole"
+  describe="和 frp 一样，但更精简轻量，同时功能也更少"
+/>
+
+## 远程控制
+
+<Card
+  url="https://github.com/rustdesk/rustdesk"
+  title="RustDesk"
+  describe="远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。"
+/>
+
+## 正则表达式
+
+<Card
+  url="https://deerchao.cn/tutorials/regex/regex.htm"
+  title="正则表达式 30 分钟入门教程"
+  describe="30分钟内让你明白正则表达式是什么，并对它有一些基本的了解，让你可以在自己的程序或网页里使用它。"
+/>
+
+<Card
+  url="https://regex101.com/"
+  title="在线正则表达式验证"
+  describe="远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。"
+/>
+
 ## DevOps
 
 [![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)
@@ -259,5 +313,21 @@ ruby -run -e httpd . -p 8888
 
 ### 52 设计原则
 
-[小红书产品设计中心](https://rpdc.xiaohongshu.com/)
+<Card
+  url="https://gradients.app/zh"
+  title="在线调色板"
+  describe="简化设计师、营销人员和SMM专家的工作"
+/>
+
+<Card
+  url="https://yesicon.app/"
+  title="开源、免费的矢量图标库"
+  describe="240,517 枚高品质矢量图标来自全球顶尖设计团队"
+/>
+
+<Card
+  url="https://rpdc.xiaohongshu.com/52-design-principles"
+  title="52 设计原则"
+  describe="设计的探索从不停步，好的产品有逻辑可循。我们争先恐后地寻找设计成功背后的原因。做尽可能好的设计决定 —— 是这个项目诞生的意义。"
+/>
 

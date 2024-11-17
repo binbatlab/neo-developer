@@ -50,6 +50,14 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
   describe="非常强大的流程图制作器和在线图表工具"
 />
 
+### 思维导图
+
+<Card
+  url="https://wanglin2.github.io/mind-map/"
+  title="思绪思维导图"
+  describe="一个简单 & 强大的 Web 思维导图"
+/>
+
 ## 如何正确截屏
 
 没错我并没有在开玩笑，真的就有人天天拿手机拍屏幕发图片

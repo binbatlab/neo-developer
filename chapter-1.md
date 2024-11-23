@@ -111,11 +111,13 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 所以要尽可能多提 PR 和尽早提 PR，这样才可能在时限内完成
 :::
 
-[浅显易懂的Git教程](https://liaoxuefeng.com/books/git/introduction/index.html)
+<Card
+  url="https://liaoxuefeng.com/books/git/introduction/index.html"
+  title="浅显易懂的Git教程"
+  describe="为什么要编写这个教程？因为我在学习Git的过程中，买过书，也在网上Google了一堆Git相关的文章和教程，但令人失望的是，这些教程不是难得令人发指，就是简单得一笔带过，或者，只支离破碎地介绍Git的某几个命令，还有直接从Git手册粘贴帮助文档的，总之，初学者很难找到一个由浅入深，学完后能立刻上手的Git教程。"
+/>
 
-### GitHub 和 PR
-
-[![如何参与开源项目 - 细说 GitHub 上的 PR 全过程](https://svg.bookmark.style/api?url=https://blog.devstream.io/posts/open-a-pr-in-github/&mode=dark&style=horizontal)](https://blog.devstream.io/posts/open-a-pr-in-github/)
+### Git Commit message
 
 <Card
   url="https://zj-git-guide.readthedocs.io/zh-cn/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/"
@@ -139,6 +141,23 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
   url="https://www.conventionalcommits.org/en/v1.0.0/"
   title="Conventional Commits"
   describe=""
+/>
+
+### GitHub 和 PR
+
+[![如何参与开源项目 - 细说 GitHub 上的 PR 全过程](https://svg.bookmark.style/api?url=https://blog.devstream.io/posts/open-a-pr-in-github/&mode=dark&style=horizontal)](https://blog.devstream.io/posts/open-a-pr-in-github/)
+<Card
+  url="https://jimmysong.io/blog/open-source-cla/"
+  title="开源社区贡献者协议 CLA 介绍"
+  describe="很多从事开源人可能会注意到有些开源项目要求贡献者在提交 PR 前首先签署 CLA，只有签署了 CLA 之后 PR 才可以合并。"
+/>
+
+> 有一句名言是咋说的来着? 代码主要是给人看的, 其次才是给电脑去运行.
+
+<Card
+  url="http://editorconfig.book.trendsoft.org/"
+  title="使用 .editorconfig 文件来统一编程风格"
+  describe="介绍了 .editorconfig 文件及如何使用它来统一项目的编程风格, 兼谈了一些项目管理的心得."
 />
 
 ### git bisect

@@ -63,10 +63,11 @@ BBFM 完成时间时间为一个月，考虑部分有实习生还有其他事情
 
 ## 第三周：编程基础
 
-我们目前主要用着三种语言：Golang，Typescript，Rust
+我们目前主要用着四种语言：Golang，Typescript，Python, Rust
 
 - [Golang (Web 后端，数据库)（默认：如果你不知道选什么，那就选这个）](/golang)
 - [Typescript (Web 前端，用户界面，可视化)](/typescript)
+- [Python (人工智能)](/python)
 - [Rust (系统，考虑到 Rust 自身的复杂性，默认禁止选择这项)](/rust)
 
 读书：[《Go 语言设计与实现》](https://draveness.me/golang/)

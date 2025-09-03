@@ -26,6 +26,7 @@ export default defineConfig({
         items: [
           { text: 'Web 后端：Golang', link: '/golang' },
           { text: 'Web 前端：Typescript', link: '/typescript' },
+          { text: '人工智能：Python', link: '/python' },
           { text: '系统：Rust', link: '/rust' },
         ]
       }

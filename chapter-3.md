@@ -4,10 +4,13 @@
 建议最后阅读本章节，本文清单内容稍微复杂了一点
 :::
 
-### 可观测性
+### TLS/SSL 证书
 
-[What is observability?｜一文读懂什么是系统可观测性](https://segmentfault.com/a/1190000040745253)
-
+<Card
+  url="https://www.kawabangga.com/posts/5330"
+  title="有关 TLS/SSL 证书的一切"
+  describe="TLS 握手其中关键的一步，就是 Server 端要向 Client 端证明自己的身份。感觉有关 TLS 的内容，介绍握手的原理的有很多，但是介绍证书的并不多，证书是 TLS/SSL 非常关键的一环。本文就尝试说明，证书是用来干什么的，Google 是如何防止别人冒充 Google 的，证书为什么会频繁出问题，等等。"
+/>
 
 ## 架构
 
@@ -24,6 +27,12 @@
 ## 可观测性
 
 ![observability](./observability.png)
+
+<Card
+  url="https://segmentfault.com/a/1190000040745253"
+  title="What is observability?｜一文读懂什么是系统可观测性"
+  describe="可观测性使团队能够更有效地监控现代系统，并帮助他们找到并连接复杂链中的影响，并将其追溯到原因。此外，它还使系统管理员、IT 运营分析师和开发⼈员能够了解他们的整个架构。"
+/>
 
 ### PLG (Prometheus + Loki + Grafana)
 

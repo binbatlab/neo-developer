@@ -12,6 +12,24 @@ Python 基础文档资料非常多
 
 ### Python 包管理
 
+目前建议使用 `uv` 来管理依赖
+
+python 包管理器的流行路径：`pip` -> `pipx` -> `poetry` -> `pdm` -> `uv`
+
+`conda` 属于另一种流派，对于数据科学部分包做了特殊处理
+
+<Card
+  url="https://sspai.com/post/75978"
+  title="细数 Python 虚拟环境的管理方案"
+  describe="在 Python 社区生态里，我们可以有多种方式去创建一个干净虚拟环境，本小节笔者主要会简单介绍四个热门解决方案。"
+/>
+
+<Card
+  url="https://fancyerii.github.io/2024/03/11/pdm-tutorial/"
+  title="使用PDM来管理Python项目"
+  describe="使用Pip+venv来管理pyton项目会有很多问题，使用conda也不尽如人意。最近尝试了很多Python包管理工具，包括Pipenv、Poetry和PDM。通过一番尝试之后发现PDM最符合我的需求，因此记录一下。部分内容来自Pipenv教程。"
+/>
+
 <Card
   url="https://www.bilibili.com/video/BV13WGHz8EEz/"
   title="从pip到uv：一口气梳理现代Python项目管理全流程！"

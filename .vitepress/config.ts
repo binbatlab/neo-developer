@@ -30,6 +30,13 @@ export default defineConfig({
           { text: '系统：Rust', link: '/rust' },
         ]
       }
-    ]
+    ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/binbatlab/neo-developer' }
+    ],
+    editLink: {
+      pattern: 'https://github.com/binbatlab/neo-developer/edit/main/:path',
+      text: '在 GitHub 上编辑此页面'
+    }
   }
 })

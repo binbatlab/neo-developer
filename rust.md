@@ -46,7 +46,7 @@ use crate::route::{AppState, admin, session, whep, whip};
 
 请用空行分组后按照 Alphabets 顺序排序，当然 `rustfmt` 会自动帮助我们排序
 
-通常建议顺序:
+通常建议顺序: (按照作用域大到小)
 - `std` 组
 - 第三方库组
 - 自定义库组
@@ -56,6 +56,11 @@ use crate::route::{AppState, admin, session, whep, whip};
 
 ```toml
 [dependencies]
+webrtc = { git = "https://github.com/webrtc-rs/webrtc", rev = "4da5280" }
+
+api = { path = "libs/api" }
+cli = { path = "libs/cli" }
+
 mime_guess = { workspace = true, optional = true }
 
 http = { workspace = true }
@@ -65,17 +70,12 @@ axum = "0.8"
 axum-extra = "0.10"
 http-body-util = "0.1.2"
 tower-http = "0.6"
-
-api = { path = "libs/api" }
-cli = { path = "libs/cli" }
-
-webrtc = { git = "https://github.com/webrtc-rs/webrtc", rev = "4da5280" }
 ```
 
 
-当然，`Cargo.toml` 里面的依赖顺序也同理分组后按照 Alphabets 顺序:
+当然，`Cargo.toml` 里面的依赖顺序也同理分组后按照 Alphabets 顺序: (按照需要重点关注组的顺序)
+- 特殊版本依赖组（比如：用 git 版）`webrtc = { git = "https://github.com/webrtc-rs/webrtc", rev = "4da5280" }`
+- 本地依赖组 `api = { path = "libs/api" }`
 - `workspace` 组和 `optional` 组 `mime_guess = { workspace = true, optional = true }`
 - 普通依赖组 `axum = "0.8"`
-- 本地依赖组 `api = { path = "libs/api" }`
-- 特殊版本依赖组（比如：用 git 版）`webrtc = { git = "https://github.com/webrtc-rs/webrtc", rev = "4da5280" }`
 

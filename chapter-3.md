@@ -4,12 +4,30 @@
 建议最后阅读本章节，本文清单内容稍微复杂了一点
 :::
 
+### Linux
+
+鸟哥那本书内容虽全但有点老，可以结合这本 Linux 101 内容
+
+<Card
+  url="https://101.lug.ustc.edu.cn/"
+  title="Linux 101"
+  describe="本书由中国科学技术大学 Linux 用户协会的数名优秀成员协力编写，用于配套和延展“Linux 101”校内社团活动。其面向 Linux 零基础读者，从计算机操作系统和 Linux 的起源讲起，深入浅出带领读者一步步逐渐掌握最必要的 Linux 实用知识，并在其中感悟到社区开源文化的魅力。"
+/>
+
 ### TLS/SSL 证书
 
 <Card
   url="https://www.kawabangga.com/posts/5330"
   title="有关 TLS/SSL 证书的一切"
   describe="TLS 握手其中关键的一步，就是 Server 端要向 Client 端证明自己的身份。感觉有关 TLS 的内容，介绍握手的原理的有很多，但是介绍证书的并不多，证书是 TLS/SSL 非常关键的一环。本文就尝试说明，证书是用来干什么的，Google 是如何防止别人冒充 Google 的，证书为什么会频繁出问题，等等。"
+/>
+
+### 设计模式
+
+<Card
+  url="https://design-patterns.readthedocs.io/zh-cn/latest/"
+  title="图说设计模式"
+  describe="软件模式是将模式的一般概念应用于软件开发领域，即软件开发的 总体指导思路或参照样板。软件模式并非仅限于设计模式，还包括 架构模式、分析模式和过程模式等，实际上，在软件生存期的每一 个阶段都存在着一些被认同的模式。"
 />
 
 ## 架构
@@ -19,11 +37,6 @@
 ### Pub/Sub
 
 [理解【观察者模式】和【发布订阅】的区别](https://barnett617.github.io/wilson-blog/posts/2021-06-28-observer-pattern/)
-
-### 设计模式
-
-[图说设计模式 — Graphic Design Patterns](https://design-patterns.readthedocs.io/zh-cn/latest/)
-
 ## 可观测性
 
 ![observability](./observability.png)

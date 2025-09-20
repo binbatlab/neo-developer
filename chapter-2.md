@@ -123,6 +123,14 @@ Excalidraw 是近两年新起的一款画图工具，主要包含白板、流程
 
 ## 互联网工具
 
+### 在线工具箱
+
+<Card
+  url="https://rivers.chaitin.cn/tools/"
+  title="百川在线工具箱"
+  describe=""
+/>
+
 ### 图床
 
 <Card
@@ -178,6 +186,16 @@ gem install webrick
 ruby -run -e httpd . -p 8888
 ```
 :::
+
+### IP 域名自动映射工具
+
+有些时候我们一定需要域名来测试一些东西，可以通过这个工具把 IP 映射成域名
+
+<Card
+  url="https://sslip.io/"
+  title="Welcome to sslip.io"
+  describe="nip.io and sslip.io are a DNS (Domain Name System) service that, when queried with a hostname with an embedded IP address, returns that IP address. It was inspired by xip.io, which was created by Sam Stephenson."
+/>
 
 ## 网络路由
 
@@ -269,7 +287,52 @@ ruby -run -e httpd . -p 8888
   describe="远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。"
 />
 
-## 正则表达式
+## 开发运维工具
+
+### Docker
+
+<Card
+  url="https://yeasy.gitbook.io/docker_practice/"
+  title="Docker — 从入门到实践"
+  describe="Docker 是个划时代的开源项目，它彻底释放了计算虚拟化的威力，极大提高了应用的维护效率，降低了云计算应用开发的成本！使用 Docker，可以让应用的部署、测试和分发都变得前所未有的高效和轻松！"
+/>
+
+### 网关：Nginx
+
+就算最终不用，也要学习了解一下 nginx
+
+<Card
+  url="https://dunwu.github.io/nginx-tutorial/"
+  title="Nginx 极简教程"
+  describe="本项目是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。"
+/>
+
+### 网关：Caddy
+
+<Card
+  url="https://icebreaker.top/articles/2023/6/24-use-caddy-for-happy/"
+  title="为什么个人项目我更推荐使用Caddy?"
+  describe="最近我把自己一些项目里面的 nginx 换成了 caddy，运转相当良好，比较开心，所以写了这篇文章，也推荐给大家使用。"
+/>
+
+
+### TLS/SSL 证书
+
+<Card
+  url="https://www.kawabangga.com/posts/5330"
+  title="有关 TLS/SSL 证书的一切"
+  describe="TLS 握手其中关键的一步，就是 Server 端要向 Client 端证明自己的身份。感觉有关 TLS 的内容，介绍握手的原理的有很多，但是介绍证书的并不多，证书是 TLS/SSL 非常关键的一环。本文就尝试说明，证书是用来干什么的，Google 是如何防止别人冒充 Google 的，证书为什么会频繁出问题，等等。"
+/>
+
+### QUIC 和 HTTP 3.0
+
+<Card
+  url="https://hulinhong.com/quic_intro/"
+  title="QUIC 原理与 KCP 会话握手借鉴"
+  describe="本文主要介绍 QUIC 协议产生的背景和核心特性。"
+/>
+
+### 正则表达式
 
 <Card
   url="https://deerchao.cn/tutorials/regex/regex.htm"
@@ -280,46 +343,10 @@ ruby -run -e httpd . -p 8888
 <Card
   url="https://regex101.com/"
   title="在线正则表达式验证"
-  describe="远程桌面软件，开箱即用，无需任何配置。您完全掌控数据，不用担心安全问题。"
+  describe="Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust."
 />
 
-## DevOps
-
-[![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)
-
-### 单元测试
-
-[单元测试：概念、作用与实践](https://www.duyixian.cn/2021/05/24/unittest/)
-
-[有关单元测试的 5 个建议  | Piglei](https://www.piglei.com/articles/5-tips-on-unit-testing/)
-
-### CI/CD 和 DevOps
-
-[![一文带你看懂 CI/CD 是什么？](https://svg.bookmark.style/api?url=https://www.redhat.com/zh/topics/devops/what-is-ci-cd&mode=dark&style=horizontal)](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
-
-### Docker
-
-[Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
-
-### 网关：Nginx
-
-就算最终不用，也要学习了解一下 nginx
-
-[nginx-tutorial](https://dunwu.github.io/nginx-tutorial/#/)
-
-### 网关：Caddy
-
-[为什么个人项目我更推荐使用Caddy?](https://icebreaker.top/articles/2023/6/24-use-caddy-for-happy/)
-
-## TLS/SSL
-
-[有关 TLS/SSL 证书的一切](https://www.kawabangga.com/posts/5330)
-
-[QUIC原理与KCP会话握手借鉴](https://hulinhong.com/2021/02/26/quic_intro/)
-
 ## 设计
-
-### 52 设计原则
 
 <Card
   url="https://gradients.app/zh"
@@ -332,6 +359,8 @@ ruby -run -e httpd . -p 8888
   title="开源、免费的矢量图标库"
   describe="240,517 枚高品质矢量图标来自全球顶尖设计团队"
 />
+
+### 52 设计原则
 
 <Card
   url="https://rpdc.xiaohongshu.com/52-design-principles"

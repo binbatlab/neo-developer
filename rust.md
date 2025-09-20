@@ -1,15 +1,19 @@
 # 系统：Rust
 
+先按照《Rust 语言圣经》的实战例子先实践
+
+<Card
+  url="https://course.rs/about-book.html"
+  title="Rust 语言圣经 (Rust Course)"
+  describe="Rust 语言真的好：连续八年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但..."
+/>
+
+《Rust 程序设计语言》这本更像一个手册，先去实践，不懂的再来翻手册
+
 <Card
   url="https://kaisery.github.io/trpl-zh-cn/title-page.html"
   title="Rust 程序设计语言 简体中文版"
   describe="本书的英文原版作者为 Steve Klabnik 和 Carol Nichols，并由 Rust 社区补充完善。本简体中文译本由 Rust 中文社区翻译。"
-/>
-
-<Card
-  url="https://course.rs/about-book.html"
-  title="关于本书 - Rust语言圣经(Rust Course)"
-  describe="Rust 语言真的好：连续八年成为全世界最受欢迎的语言、没有 GC 也无需手动内存管理、性能比肩 C++/C 还能直接调用它们的代码、安全性极高 - 总有公司说使用 Rust 后以前的大部分 bug 都将自动消失、全世界最好的包管理工具 Cargo 等等。但..."
 />
 
 <Card

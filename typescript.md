@@ -70,6 +70,26 @@ CSS 进阶推荐：
   describe="本文作者对比了当前主流的包管理工具npm、yarn、pnpm之间的区别，并提出了合适的使用建议。"
 />
 
+深入了解这些包管理器
+
+<Card
+  url="https://chlorinec.top/posts/npm/"
+  title="前端包管理器 - npm"
+  describe="本篇主要讲述npm的发展历史（历史渊源和各个版本的改动），组织node_modules方式的变动以及package.json的详细介绍（并发布一个自己的npm包）；除此之外，还会介绍node官方提出的现代包管理器愿景，并介绍corepack工具（包管理器的管理器）。"
+/>
+
+<Card
+  url="https://chlorinec.top/posts/yarn-berry/"
+  title="前端包管理器 - yarn 与 PnP"
+  describe="yarn是一个Facebook出品的老牌包管理器，相对于npm要新一点，但相对于pnpm又要旧一点，也已经经过了多个大版本迭代。"
+/>
+
+<Card
+  url="https://chlorinec.top/posts/pnpm/"
+  title="前端包管理器 - pnpm"
+  describe="pnpm（performant npm）是一个主打快速和省空间的包管理器。它使用改进的非扁平node_modules目录和硬链接和符号链接优化依赖管理过程，个人体验下来比起yarn-v2的PnP机制会遇到的兼容性问题更少，是我现阶段最喜欢的包管理器。"
+/>
+
 ### 选择框架 `vue` 或者 `react`
 
 <Card

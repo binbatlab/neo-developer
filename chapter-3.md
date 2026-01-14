@@ -22,6 +22,16 @@ Offtopic 一下，来品鉴一下经典文章：
   describe="我已經半年沒有使用 Windows 的方式工作了。Linux高效的完成了我所有的工作。"
 />
 
+### 文档
+
+有时经常会遇到 RFC 文档无法访问的问题，可以来这里看，甚至还在机器翻译的对照
+
+<Card
+  url="https://rfc2cn.com/index.html"
+  title="RFC 自动翻译文档"
+  describe="本站致力提供全量RFC以及草案的中文翻译文档，文档采用机器翻译，供参考。翻译结果持续更新中，网站非盈利，本人尽力提供服务"
+/>
+
 ## DevOps
 
 [![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)

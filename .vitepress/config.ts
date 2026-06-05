@@ -18,7 +18,8 @@ export default defineConfig({
           { text: '第零章 开始之前', link: '/chapter-0' },
           { text: '第一章 BBFM', link: '/chapter-1' },
           { text: '第二章 常用工具', link: '/chapter-2' },
-          { text: '第三章 扩展内容', link: '/chapter-3' }
+          { text: '第三章 扩展内容', link: '/chapter-3' },
+          { text: '第四章 AI 工具与工程', link: '/chapter-4' }
         ]
       },
       {

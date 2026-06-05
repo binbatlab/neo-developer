@@ -32,6 +32,18 @@ Offtopic 一下，来品鉴一下经典文章：
   describe="本站致力提供全量RFC以及草案的中文翻译文档，文档采用机器翻译，供参考。翻译结果持续更新中，网站非盈利，本人尽力提供服务"
 />
 
+## AI 编程助手
+
+### CC Switch
+
+CC Switch 是一款开源跨平台桌面应用，用于统一管理 Claude Code、Codex、Gemini CLI 等 AI 编程工具的配置。通过可视化界面实现 API 供应商一键切换，告别手动编辑 JSON/TOML 配置文件的繁琐操作，同时支持 MCP 服务器管理和 Skills 安装。
+
+<Card
+  url="https://www.runoob.com/ai-agent/cc-switch.html"
+  title="CC Switch 一键切换 API | 菜鸟教程"
+  describe="CC Switch 是一款开源跨平台的桌面应用，专为 AI 编程助手用户设计，支持 Claude Code、Codex、Gemini CLI 等主流工具的供应商配置一键切换，让开发者轻松在 DeepSeek、OpenAI、OpenRouter 等不同后端之间无缝切换。"
+/>
+
 ## DevOps
 
 [![什么是 DevOps？](https://svg.bookmark.style/api?url=https://learn.microsoft.com/zh-cn/devops/what-is-devops&mode=dark&style=horizontal)](https://learn.microsoft.com/zh-cn/devops/what-is-devops)

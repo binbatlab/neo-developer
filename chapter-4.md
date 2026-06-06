@@ -114,6 +114,50 @@ MCP（Model Context Protocol）是 Anthropic 提出的开放协议，定义了 A
   describe="GitHub 上最受欢迎的 MCP 中文入门指南，涵盖核心概念、客户端/服务端开发、工具集成，附带完整代码示例。"
 />
 
+## Skill 工程
+
+Skills 是 Claude Code 的插件化扩展系统，通过声明式配置将领域知识、标准化工作流注入 AI，让 Claude 在面对特定任务时表现得更像一个专业工具而非通用助手。
+
+<Card
+  url="https://cloud.tencent.cn/developer/article/2624374"
+  title="Claude Code Skill 最佳实战：EP01 初识 Skill | 腾讯云"
+  describe="从零讲解什么是 Skill、三级加载架构、Skill 与 CLAUDE.md 和 Slash Commands 的区别，手把手带你创建一个规范 Git 提交信息的 Skill，30 分钟即可上手。"
+/>
+
+<Card
+  url="https://www.w3cschool.cn/aicodingskills/claudecode-skills-practice.html"
+  title="Claude Code Skills 全量实战 | w3cschool"
+  describe="完整讲解 Skill 文件夹结构、SKILL.md 编写规范、发现→激活→执行→反馈四层运行机制，附带 Python 代码审查技能的完整可运行示例。"
+/>
+
+<Card
+  url="https://github.com/xu-xiang/everything-claude-code-zh"
+  title="everything-claude-code-zh | GitHub"
+  describe="Anthropic 黑客松获胜作品的中文翻译版，包含 13 个 Agents + 56 个 Skills + 32 个 Commands 的完整配置集合，覆盖 TypeScript、Python、Go、Spring Boot 等，可作为 Skill 编写的参考模板。"
+/>
+
+## Harness 工程
+
+Harness 是 Claude Code 的运行时配置与自动化系统，通过 settings.json 管理项目权限、Hooks 生命周期钩子、环境变量等行为，让 AI 编程助手在团队协作和 CI/CD 流程中可控可预期。
+
+<Card
+  url="https://code.claude.com/docs/zh-CN/hooks-guide"
+  title="使用 Hooks 自动化工作流 | Claude Code 官方中文文档"
+  describe="官方中文教程，从创建第一个 Hook 到各类自动化场景（自动格式化、安全拦截、事件通知），入门必读。"
+/>
+
+<Card
+  url="https://www.cnblogs.com/gyc567/p/19512820"
+  title="Claude Code 高级配置完整指南 | 博客园"
+  describe="基于 everything-claude-code 开源仓库，全面讲解 settings.json 中 agents、skills、hooks、MCP 等配置项的写法与实际效果，适合系统了解 Harness 的全貌。"
+/>
+
+<Card
+  url="https://cloud.tencent.cn/developer/article/2655015"
+  title="2026 最强 Hooks、Skills、Agents 实战 | 腾讯云"
+  describe="讲解 Hooks（自动化守卫）+ Skills（知识注入）+ Agents（并行执行）三层协作架构，包含完整的 .claude/ 目录结构模板和 CLAUDE.md 最佳实践。"
+/>
+
 ### Agent
 
 Agent 是指能够感知环境、规划步骤、调用工具并执行多步任务的 AI 程序。Claude Code 本身就是一个 Agent——它能自主决定读哪些文件、运行什么命令来完成你的请求。

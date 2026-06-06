@@ -360,6 +360,12 @@ ruby -run -e httpd . -p 8888
   describe="240,517 枚高品质矢量图标来自全球顶尖设计团队"
 />
 
+<Card
+  url="https://www.iconfont.cn/"
+  title="iconfont - 阿里巴巴矢量图标库"
+  describe="国内最大的图标和插画资源库，由阿里巴巴体验团队出品。提供海量矢量图标，支持 SVG、PNG、AI 格式下载，也可直接生成 font 文件在项目中引用。"
+/>
+
 ### 52 设计原则
 
 <Card

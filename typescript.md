@@ -90,6 +90,16 @@ CSS 进阶推荐：
   describe="pnpm（performant npm）是一个主打快速和省空间的包管理器。它使用改进的非扁平node_modules目录和硬链接和符号链接优化依赖管理过程，个人体验下来比起yarn-v2的PnP机制会遇到的兼容性问题更少，是我现阶段最喜欢的包管理器。"
 />
 
+### Node 版本管理：nvm
+
+不同项目往往依赖不同版本的 Node.js（甚至同一项目在升级过程中也会涉及多版本并存），使用版本管理工具可以方便地在多个 Node 版本间安装、切换和卸载，避免全局安装单一版本带来的兼容性问题。
+
+<Card
+  url="https://github.com/nvm-sh/nvm"
+  title="nvm-sh/nvm: Node Version Manager"
+  describe="最常用的 Node.js 版本管理工具之一，通过命令行即可安装、切换、卸载多个 Node 版本；支持在项目根目录放置 .nvmrc 文件来声明所需的 Node 版本，配合 nvm use 一键切换，便于团队协作时统一开发环境。"
+/>
+
 ### 选择框架 `vue` 或者 `react`
 
 <Card

@@ -346,15 +346,6 @@ ruby -run -e httpd . -p 8888
   describe="Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET, Rust."
 />
 
-### WSL
-
-如果你实在不想在你的Windows电脑上装一个Linux系统，但是必须临时使用时，没有关系，很多人都有这个需求，WSL也许能帮到你。
-
-<Card
-  url="https://github.com/shizhengLi/wsl-learning"
-  title="WSL 技术文档项目 | GitHub"
-  describe="全面介绍 Windows Subsystem for Linux (WSL) 的中文技术文档，从安装配置、网络设置到 Docker 集成、性能优化，共 13 篇核心文档，适合零基础入门。"
-/>
 
 ## 设计
 

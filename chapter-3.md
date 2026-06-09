@@ -22,6 +22,16 @@ Offtopic 一下，来品鉴一下经典文章：
   describe="我已經半年沒有使用 Windows 的方式工作了。Linux高效的完成了我所有的工作。"
 />
 
+### WSL
+
+如果你实在不想在你的Windows电脑上装一个Linux系统，但是必须临时使用时，没有关系，很多人都有这个需求，WSL也许能帮到你。
+
+<Card
+  url="https://github.com/shizhengLi/wsl-learning"
+  title="WSL 技术文档项目 | GitHub"
+  describe="全面介绍 Windows Subsystem for Linux (WSL) 的中文技术文档，从安装配置、网络设置到 Docker 集成、性能优化，共 13 篇核心文档，适合零基础入门。"
+/>
+
 ### 文档
 
 有时经常会遇到 RFC 文档无法访问的问题，可以来这里看，甚至还在机器翻译的对照
